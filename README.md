@@ -7,7 +7,7 @@ Aplikasi mobile yang menyajikan informasi seputar menanam dan merawat tanaman. P
 
 
 
-### Cara Menjalankan Aplikasi pada Sistem Operasi Android
+#### Cara Menjalankan Aplikasi pada Sistem Operasi Android
 1. Aktifkan emulator atau hubungkan handphone fisik dengan PC menggunakan kabel USB
 2. Install semua dependencies
 ``npm install``
@@ -16,4 +16,4 @@ Aplikasi mobile yang menyajikan informasi seputar menanam dan merawat tanaman. P
 4. Jalankan aplikasi pada emulator atau handphone fisik 
 ``npx react-native run-android``
 
-### Pratinjau Aplikasi
+#### Pratinjau Aplikasi
