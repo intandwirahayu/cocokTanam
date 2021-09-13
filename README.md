@@ -16,7 +16,10 @@ Aplikasi mobile yang menyajikan informasi seputar menanam dan merawat tanaman. P
 4. Jalankan aplikasi pada emulator atau handphone fisik 
 ``npx react-native run-android``
 
+#### Demo Aplikasi
+Demo aplikasi dapat dilihat pada link berikut https://drive.google.com/file/d/1jkdBoPuIwVYwh0nFvUr5Iem08V8aIPH1/view?usp=sharing
+
 #### Tampilan Aplikasi
 ![ee22e2114267113 6037c84a01619](https://user-images.githubusercontent.com/68541473/132983729-78776d07-97bb-48f7-9d05-985f259b86b2.png)
 
-detail tampilan aplikasi dapat dilihat pada link berikut [cocokTanam App](https://www.behance.net/gallery/114267113/CocokTanam-App)
+Detail tampilan aplikasi dapat dilihat pada link berikut [cocokTanam App](https://www.behance.net/gallery/114267113/CocokTanam-App)
